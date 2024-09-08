@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=SUSE:wght@100..800&display=swap');
 
 body {
-    font-family: "Inter";
-    font-weight: 600;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
     font-style: italic;
     margin: 0;
     padding: 0;
@@ -80,6 +80,7 @@ section h1 {
     align-items: center;
     justify-content: center;
 }
+
 .section_item {
     height: 10vw;
     margin: 0 4em 4em 4em;
