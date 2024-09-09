@@ -90,13 +90,27 @@ section h1 {
     height: 100%;
 }
 
-
 .projects {
     color: white;
     background: black;
 }
 
 .github:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+.instagram:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+.telegram:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+.gmail:hover {
     transform: scale(1.05);
     cursor: pointer;
 }
